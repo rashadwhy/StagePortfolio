@@ -1,5 +1,5 @@
----
-## SECIAN 
+
+## Stageportfolio SECIAN 
 
 ## Anwar Muradin 
 
@@ -13,7 +13,7 @@
 
 ### Stageperiode: 2025, semester 
 
----
+
 ---
 ## Inhoudsopgave
 ---
@@ -44,66 +44,66 @@
 ### 1. CV
 ---
 
-# **Anwar Muradin**
+## **Anwar Muradin**
 **Email:** [anwar.muradin@gmail.com](mailto:anwar.muradin@gmail.com)  
 **Phone:** +31683331295  
 **Address:** Kleiburg 420, 1104EA, Amsterdam  
 
 ---
-## **Education**
+### **Education**
 
-### **Hogeschool van Amsterdam** (Amsterdam)  
+#### **Hogeschool van Amsterdam** (Amsterdam)  
 **HBO-ICT - Computer Engineering**  
 - Focus: Embedded hardware and software
 - **Duration:** September 2023 – July 2027  
 
-### **Haagse Hogeschool** (Den-Haag)  
+#### **Haagse Hogeschool** (Den-Haag)  
 **HBO-ICT - Software Engineering**  
 - Focus: Business & Data Management, Network & Systems Engineering, Information Security Management, Innovative Development  
 - **Duration:** August 2022 – July 2023  
 
-### **Haarlemmermeerlyceum** (Hoofddorp)  
+#### **Haarlemmermeerlyceum** (Hoofddorp)  
 **HAVO - Bilingual Education**  
 - Graduated: June 2022  
 - International Baccalaureate (IB) English: Grade 9  
 
-### **OBS Merlijn** (Nieuw-Vennep)  
+#### **OBS Merlijn** (Nieuw-Vennep)  
 **Basisschool**  
 - **Graduated:** June 2016  
 - **CITO Score:** 548/550  
 
 ---
-## **Work Experience**
+### **Work Experience**
 
-### **Fiksi**  
+#### **Fiksi**  
 **Technical Consultant**  
 - Provided hardware and software consultancy services.  
 - Achieved an average personal customer rating of **9.5** (references available).
 - **Duration:** Dec 2023 - Present
 
-### **Hamilton Bright**  
+#### **Hamilton Bright**  
 **Sales Associate & Powerservice Specialist**  
 - Specialized in sales and technical support in TV, computer, and telecom departments.  
 - Completed courses in Powerservice and Cybersecurity.  
 - **Duration:** Feb 2023 - Jun 2023
 
-### **MediaMarkt** (Hoofddorp)  
+#### **MediaMarkt** (Hoofddorp)  
 **Sales Associate & Powerservice Specialist**  
 - Sales experience in TV, computer, and telecom departments.  
 - Expertise in troubleshooting, repairs, and installations.  
 - **Duration:** Jul 2022 – Feb 2023
 
 ---
-## **Key Projects**
+### **Key Projects**
 
-### **1. Proxmox PVE Cluster**  
+#### **1. Proxmox PVE Cluster**  
 - **Objective:** Built a Proxmox Virtual Environment (PVE) cluster running on two nodes to manage and host virtual machines for various applications.  
 - **Key Features:**  
   - Virtualized infrastructure supporting multiple VMs.  
   - Scalable and efficient resource management.  
 - **Results:** Established a robust platform for experimentation and efficient utilization of hardware resources.  
 
-### **2. Personal Media Server**  
+#### **2. Personal Media Server**  
 - **Objective:** Created a centralized media server hosted on a virtual machine within the Proxmox PVE cluster.  
 - **Key Features:**  
   - Streamlined access to video, audio, and other file formats.  
@@ -111,7 +111,7 @@
 - **Tools Used:** Jellyfin, OpenMediaVault, Docker.  
 - **Results:** Improved organization and accessibility of personal media content.  
 
-### **3. LLM Chat AI Server**  
+#### **3. LLM Chat AI Server**  
 - **Objective:** Set up a server hosting a local Large Language Model (LLM) for personal research and development.  
 - **Key Features:**  
   - Enabled offline AI capabilities for natural language processing tasks.  
@@ -119,7 +119,7 @@
 - **Tools Used:** Python, PyTorch, Hugging Face Transformers.  
 - **Results:** Gained hands-on experience with hosting and fine-tuning LLMs for various use cases.  
 
-### **4. Remote Gaming Machine**  
+#### **4. Remote Gaming Machine**  
 - **Objective:** Developed a virtual machine optimized for high-performance gaming, accessible remotely from low-end hardware.  
 - **Key Features:**  
   - GPU pass-through for enhanced graphical performance.  
@@ -128,7 +128,7 @@
 - **Results:** Provided a cost-effective gaming solution with minimal hardware requirements.  
  
 ---
-## **Diplomas & Certifications**
+### **Diplomas & Certifications**
 
 - HAVO  
 - HBO Bachelor Propedeuse in HBO-ICT  
@@ -138,7 +138,7 @@
 - English International Baccalaureate  
 
 ---
-## **Skills**
+### **Skills**
 
 - Technical troubleshooting and repair  
 - Communication and customer support  
@@ -146,13 +146,13 @@
 - Diagnostic expertise  
 
 ---
-## **Languages**
+### **Languages**
 
 - **Dutch**: Native  
 - **English**: Native  
 
 ---
-## **Hobbies & Interests**
+### **Hobbies & Interests**
 
 - Developing Audio/Video solutions for studio and entertainment usage.
 - Assisting with troubleshooting and network support  
@@ -216,7 +216,7 @@ De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de techni
 
 
 ---
-#  Bewijs:
+##  Bewijs:
 
 
 ## Ontwerpdocument 1
@@ -670,7 +670,7 @@ SSO setup simplifies user authentication across systems while meeting ISO27001 a
 ---
 #### 1. Organisatorische context:
 
-Organisatorische Context (STARR)
+##### Organisatorische Context (STARR)
 
 **Situatie:**  
 Tijdens mijn stage bij SECIAN richtte mijn rol zich vooral op de technische keuzes en implementatie, met specifieke aandacht voor veiligheid. Omdat SECIAN zich bezighoudt met cybersecurity, moesten onze oplossingen voldoen aan bredere verantwoordelijkheden die daarbij horen.
@@ -691,7 +691,7 @@ Ik heb geleerd dat technische keuzes meerdere afhankelijkheden hebben, vooral bi
 
 #### 2. Procesmanagement: 
 
-Procesmanagement (STARR)
+##### Procesmanagement (STARR)
 
 **Situatie:**  
 Het project had geen vast omlijnde structuur. De opdrachtgever maakte de planning op basis van wat ik aangaf dat er nodig was qua timing, afhankelijkheden en opbouw. Ik stuurde deliverables op en gaf inschattingen door, zodat de planning realistisch bleef.
@@ -757,7 +757,7 @@ Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens d
 
 #### 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
-[Beoordelingsformulier Stagepresentatie](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
+[Beoordelingsformulier Stagepresentatie.pdf](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
 #### 2. Samenwerken: 
 
