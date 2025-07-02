@@ -479,7 +479,7 @@ Ik ben trots op hoe ik in korte tijd heb geleerd om een stabiele back-end op te 
 1. STARR formulier bij het onderzoeksrapport
 
 <details>
-<summary>Klik om de STARR van Procesmanagement te bekijken</summary>
+<summary>Klik om de STARR van het onderzoeksrapport te bekijken</summary>
 
 **Situatie:**  
 Aan het begin van mijn stage bij SECIAN kreeg ik de opdracht om een SaaS-dashboard te ontwerpen dat real-time compliance-informatie toont aan niet-technische gebruikers. Dit moest werken met cloudplatforms zoals Microsoft 365, Google Workspace en AWS. Omdat deze platformen ieder hun eigen datastructuur, terminologie en authenticatie hebben, was het probleem zowel technisch als conceptueel uitdagend.
@@ -543,9 +543,6 @@ Het uitvoeren van praktijkgericht onderzoek heeft me geleerd dat methodisch werk
 <details>
 <summary>Klik om de feasibility study te bekijken</summary>
 
----
-
----
 ---
 Meeting notes:
 
@@ -820,7 +817,7 @@ Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens d
 <details>
 <summary>Klik om de beoordeling van de stagepresentatie te bekijken</summary>
 
-[beoordelingsformulier stagepresentatie.pdf](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
+[Beoordelingsformulier Stagepresentatie](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
 </details>
 
@@ -896,7 +893,7 @@ Afhankelijk van de beschikbare studies of banen wil ik iets doen dat aansluit bi
 **Studievoortgang**
 
 **Welke onderdelen van je studie motiveren je (en waarom) en waar heb je moeite mee?**  
-Ik ben gemotiveerd door mogelijkheden om te experimenteren en te ontdekken, vooral als het leidt tot unieke oplossingen of nieuwe inzichten. Dit creatieve en exploratieve aspect houdt mijn interesse vast. Ik ben minder geinteresseerd in repetitieve taken, maar ik begrijp hun belang en accepteer dat het essentieel is om deze af te ronden.
+Ik ben gemotiveerd door mogelijkheden om te experimenteren en te ontdekken, vooral als het leidt tot unieke oplossingen of nieuwe inzichten. Dit creatieve en exploratieve aspect houdt mijn interesse vast. Ik ben minder geinteresseerd in repetitieve taken, maar ik begrijp hun belang en accepteer dat het fundamenteel stevig is om deze af te ronden.
 
 **Hoe ga je om met onderdelen die je lastiger/minder leuk vindt?**  
 Ik benader deze onderdelen meestal met nieuwsgierigheid, tenzij het gaat om repetitieve taken. In die gevallen accepteer ik hun noodzaak en waak ik erover dat het fundamenteel stevig is.
