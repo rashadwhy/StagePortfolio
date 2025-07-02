@@ -42,7 +42,7 @@ Stageperiode: 2025, semester 
 ### 1. CV
 
 > [!details]- Klik om het CV te bekijken  
-> ![[./evidence/CV]]
+> [CV](./evidence/CV.md)
 
 --- 
 ### 2. Inleiding
@@ -69,7 +69,7 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 ### 3. Beroepstakenlijst
 
 > [!details]- Klik om de beroepstaken te bekijken  
-> ![[./evidence/beroepstaken-stage.pdf]]
+> [beroepstaken-stage.pdf](./evidence/beroepstaken-stage.pdf)
 
 ---
 ### 4. Professioneel vakmanschap
@@ -79,25 +79,25 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 * Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het ontwerp van een back-end implementatie op basis van de front-end van SECIAN's APEX.
 
 > [!details]- Klik om de STARR van beroepstaak 1 te bekijken  
-> ![[./evidence/STARR Beroepstaak 1]]
+> [STARR Beroepstaak 1](./evidence/STARR%20Beroepstaak%201.md)
 
 * Bewijs:
 
 > [!details]- Klik om ontwerpdocument 1 te bekijken  
-> ![[./evidence/designs/Tasks 1]]
+> [Tasks 1](./evidence/designs/Tasks%201.md)
 
 > [!details]- Klik om ontwerpdocument 2 te bekijken  
-> ![[./evidence/designs/Tasks 2]]
+> [Tasks 2](./evidence/designs/Tasks%202.md)
 
 > [!details]- Klik om ontwerpdocument 3 te bekijken  
-> ![[./evidence/designs/Tasks 3]]
+> [Tasks 3](./evidence/designs/Tasks%203.md)
 
 2. STARR, beroepstaak 2
 
 *  Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het realiseren van de ontworpen implementatie voor de back-end van SECIAN's APEX.
 
 > [!details]- Klik om de STARR van beroepstaak 2 te bekijken  
-> ![[./evidence/STARR Beroepstaak 2]]
+> [STARR Beroepstaak 2](./evidence/STARR%20Beroepstaak%202.md)
 
 * Bewijs: Ik kan tijdens het assessment, of op aanvraag de (prive) repository laten zien en de applicatie in werking. Ik ben niet zeker over welk gedeelte van de (grote hoeveelheid) code en web config waardig bewijs is voor het hele product.
 
@@ -106,22 +106,22 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 1. STARR formulier bij het onderzoeksrapport
 
 > [!details]- Klik om de STARR van Procesmanagement te bekijken  
-> ![[./evidence/STARR Onderzoeksrapport]]]
+> [STARR Onderzoeksrapport](./evidence/STARR%20Onderzoeksrapport.md)
 
 	
 2. Link en Beoordelingsformulier 	
 	
 > [!details]- Klik om het onderzoeksrapport te bekijken  
-> ![[./evidence/Onderzoeksverslag.pdf]]]
+> [Onderzoeksverslag.pdf](./evidence/Onderzoeksverslag.pdf)
 
 
 > [!details]- Klik om het beoordelingsformulier te bekijken  
-> ![[./evidence/Beoordelingsformulier_onderzoeksrapport.pdf]]
+> [Beoordelingsformulier_onderzoeksrapport.pdf](./evidence/Beoordelingsformulier_onderzoeksrapport.pdf)
 
 3. Ander bewijs:
 
 > [!details]- Klik om de feasibility study te bekijken  
-> ![[./evidence/Feasibility study]]]
+> [Feasibility study](./evidence/Feasibility%20study.md)
 
 * Deze feasibility study heb ik gemaakt voor Amar, voor de start van de ontwerpfase.
 ---
@@ -129,22 +129,22 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 1. Organisatorische context:
 
 > [!details]- Klik om de STARR van Organisatorische context te bekijken  
-> ![[./evidence/STARR Organisatorische Context]]]
+> [STARR Organisatorische Context](./evidence/STARR%20Organisatorische%20Context.md)
 
 2. Procesmanagement: 
 
 > [!details]- Klik om de STARR van Procesmanagement te bekijken  
-> ![[./evidence/STARR Procesmanagement]]]
+> [STARR Procesmanagement](./evidence/STARR%20Procesmanagement.md)
 
 * Bewijs:
 
 > [!details]- Klik om de Jira tijdlijn te bekijken  
-> ![[./evidence/jira.png]]]
+> ![Jira tijdlijn](./evidence/jira.png)
 
 3. Ethiek
 
 > [!details]- Klik om Etische dilemma's tijdens de stage te bekijken  
-> ![[./evidence/Ethiek]]]
+> [Ethiek](./evidence/Ethiek.md)
 
 ---
 ### 7. Doelgericht interacteren
@@ -152,28 +152,28 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
 > [!details]- Klik om de beoordeling van de stagepresentatie te bekijken  
-> ![[./evidence/beoordelingsformulier stagepresentatie.pdf]]]
+> [beoordelingsformulier stagepresentatie.pdf](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
 2. Samenwerken: 
 
 > [!details]- Klik om de STARR van Samenwerken te bekijken  
-> ![[./evidence/STARR Samenwerken]]]
+> [STARR Samenwerken](./evidence/STARR%20Samenwerken.md)
 
 
 3. Partners: tussentijdse en eindbeoordeling bedrijfsbegeleider 
 
 > [!details]- Klik om de eindbeoordeling van de bedrijfsbegeleider te bekijken  
-> ![[./evidence/beoordelingsformulier bedrijfsbegeleider eindbeoordeling.pdf]]]
+> [beoordelingsformulier bedrijfsbegeleider eindbeoordeling.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20eindbeoordeling.pdf)
 
 > [!details]- Klik om de tussentijdse beoordeling van de bedrijfsbegeleider te bekijken  
-> ![[./evidence/beoordelingsformulier bedrijfsbegeleider tussentijds.pdf]]]
+> [beoordelingsformulier bedrijfsbegeleider tussentijds.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20tussentijds.pdf)
 
 ---
 ### 8. Persoonlijk leiderschap
 1. SOP:
 
 > [!details]- Klik om het originele SOP te bekijken  
-> ![[./evidence/SOP Origineel.md]]
+> [SOP Origineel](./evidence/SOP%20Origineel.md)
 
 > [!details]- Klik om het geactualiseerde SOP te bekijken  
-> ![[./evidence/SOP Geactualiseerd.md]]
+> [SOP Geactualiseerd](./evidence/SOP%20Geactualiseerd.md)
