@@ -1,3 +1,4 @@
+---
 ## SECIAN 
 
 ## Anwar Muradin 
@@ -12,10 +13,10 @@
 
 ### Stageperiode: 2025, semester 
 
-
+---
 ---
 ## Inhoudsopgave
-
+---
 1. [CV](#1-cv)
 2. [Inleiding](#2-inleiding)
 3. [Beroepstakenlijst](#3-beroepstakenlijst)
@@ -38,8 +39,10 @@
    - SOP origineel
    - SOP geactualiseerd
 
+
 ---
 ### 1. CV
+---
 
 # **Anwar Muradin**
 **Email:** [anwar.muradin@gmail.com](mailto:anwar.muradin@gmail.com)  
@@ -157,8 +160,9 @@
 - Car repair and modification
 - Photography
 
---- 
+---
 ### 2. Inleiding
+--- 
 
 Mijn stage vond plaats bij **SECIAN**, een cybersecuritybedrijf dat diensten levert op het gebied van beveiliging, compliance en risicomanagement. SECIAN richt zich op het toegankelijk maken van complexe informatie voor niet-technische gebruikers in organisaties die gebruikmaken van cloudplatformen zoals Microsoft 365, Google Workspace en AWS.
 
@@ -178,19 +182,21 @@ Mijn werkzaamheden zijn onder te verdelen in drie hoofdfases:
 
 De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd werkte ik grotendeels zelfstandig, met regelmatige sparmomenten en afstemming met mijn opdrachtgever. De samenwerking verliep pragmatisch, met veel ruimte voor technische verdieping en initiatief.
 
+
 ---
 ### 3. Beroepstakenlijst
-
+--- 
 [beroepstaken-stage.pdf](./evidence/beroepstaken-stage.pdf)
 
 ---
 ### 4. Professioneel vakmanschap
+--- 
 
-#### 1. STARR, beroepstaak 1
+### 1. STARR, beroepstaak 1
 
 * Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het ontwerp van een back-end implementatie op basis van de front-end van SECIAN's APEX.
 
-# STARR-formulier 1 – Ontwerpen van IT-oplossingen (niveau 2)
+#### STARR-formulier 1 – Ontwerpen van IT-oplossingen (niveau 2)
 
 **S – Situatie (Beroepstaak 1):**  
 Ik werkte aan een dashboard app voor SECIAN, een cybersecuritybedrijf onder leiding van Amar Ritoe. De opdracht had het karakter van een pilotproject, bedoeld om te verkennen wat technisch haalbaar was binnen het bedrijf. Het was onderdeel van een breder idee om interne processen te automatiseren, maar stond qua uitvoering redelijk op zichzelf. De focus lag hierbij op het realiseren van een functioneel prototype, inclusief de technische en visuele basis.
@@ -208,12 +214,13 @@ Het resultaat was een helder ontwerp en een visueel uitgewerkte mockup, die als 
 In dit project leerde ik hoe belangrijk het is om de wensen van een opdrachtgever helder en praktisch te vertalen naar een concreet ontwerp. De opdrachtgever gaf aan wat hij wilde en hoe het eruit moest zien. Door zijn feedback letterlijk terug te koppelen en hem actief te laten kiezen tussen details, hield ik hem betrokken en voorkwam ik misverstanden. Daarna maakte ik een schets met pen om de datastroom visueel uit te leggen. Dat hielp om op één lijn te komen.  
 De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de technische keuzes, en werd goedgekeurd door de opdrachtgever. Op basis daarvan heb ik onze eisen geanalyseerd, een plan van aanpak opgesteld (met kanban-board en tijdlijn), en ben ik gestart met de uitvoering. In toekomstige projecten wil ik deze aanpak behouden: eerst visueel afstemmen, dan gestructureerd plannen, zodat iedereen die betrokken is bij het ontwikkelen grip houden op het proces.
 
----
-
-#### * Bewijs:
 
 ---
+#  Bewijs:
 
+
+## Ontwerpdocument 1
+---
 ### 🧱 **Backend Infrastructure**
 
 - Set up backend repo and project structure
@@ -295,6 +302,7 @@ De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de techni
 
 ---
 
+## Ontwerpdocument 2
 ---
 
 ### 🧱 Database Architecture (AWS DynamoDB)
@@ -367,9 +375,10 @@ De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de techni
 
 ---
 
+## Ontwerpdocument 3
 ---
 
-# Microsoft Graph API Feasibility Report  
+### Microsoft Graph API Feasibility Report  
 **Scope:** Retrieve authentication method configurations (e.g., MFA) and Exchange/Outlook Safe Links status  
 **Relevant Controls:**  
 - ISMS-68 – Secure Authentication  
@@ -377,9 +386,9 @@ De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de techni
 
 ---
 
-## 1. Authentication Methods (MFA Enabled) – ISMS-68
+#### 1. Authentication Methods (MFA Enabled) – ISMS-68
 
-### ✅ Feasible via Microsoft Graph API
+##### ✅ Feasible via Microsoft Graph API
 
 **Purpose:** Determine whether users have MFA enabled and view their authentication methods.
 
@@ -402,9 +411,9 @@ De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de techni
 
 ---
 
-## 2. Exchange/Outlook Safe Links – ISMS-70 / ISO27001
+#### 2. Exchange/Outlook Safe Links – ISMS-70 / ISO27001
 
-### ❌ Not Feasible via Microsoft Graph API (as of now)
+##### ❌ Not Feasible via Microsoft Graph API (as of now)
 
 **Purpose:** Validate if Safe Links (part of Defender for Office 365) are enabled to protect users from malicious URLs.
 
@@ -418,13 +427,13 @@ Get-SafeLinksRule
 ```
 
 
-# Other policies can be checked once the database is populated and I can filter on (automated = true).
-
-#### 2. STARR, beroepstaak 2
+### Other policies can be checked once the database is populated and I can filter on (automated = true).
+---
+### 2. STARR, beroepstaak 2
 
 *  Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het realiseren van de ontworpen implementatie voor de back-end van SECIAN's APEX.
 
-# STARR-formulier 2 – Realiseren van IT-oplossingen (niveau 2)
+#### STARR-formulier 2 – Realiseren van IT-oplossingen (niveau 2)
 
 **S – Situatie (Beroepstaak 2):**  
 Voor dezelfde opdracht bij SECIAN ging ik na de ontwerpfase verder met het daadwerkelijk realiseren van de alpha-versie van de dashboard app. Dit gebeurde binnen een context waarin veiligheid belangrijker was dan snelheid. De opdrachtgever, Amar Ritoe, wilde een stabiel en foutloos werkend prototype.
@@ -445,6 +454,7 @@ Ik ben trots op hoe ik in korte tijd heb geleerd om een stabiele back-end op te 
 
 ---
 ### 5. Onderzoekend vermogen
+---
 #### 1. STARR formulier bij het onderzoeksrapport
 
 **Situatie:**  
@@ -492,7 +502,7 @@ Het uitvoeren van praktijkgericht onderzoek heeft me geleerd dat methodisch werk
 
 [Beoordelingsformulier_onderzoeksrapport.pdf](./evidence/Beoordelingsformulier_onderzoeksrapport.pdf)
 
-#### 3. Ander bewijs:
+### 3. Ander bewijs:
 
 ---
 Meeting notes:
@@ -655,7 +665,9 @@ SSO setup simplifies user authentication across systems while meeting ISO27001 a
 
 * Deze feasibility study heb ik gemaakt voor Amar, voor de start van de ontwerpfase.
 ---
+
 ### 6. Toekomstgericht organiseren
+---
 #### 1. Organisatorische context:
 
 Organisatorische Context (STARR)
@@ -698,10 +710,11 @@ Door de structuur die ontstond via branching en Jira werd het project overzichte
 **Reflectie:**  
 Ik merkte dat zelfs minimale processtructuur, zoals branches en basale taakverdeling, direct resultaat oplevert. Door consistentie af te dwingen waar het ontbrak, werd het project technisch werkbaar en beter overdraagbaar. In de toekomst wil ik soortgelijke structuur al eerder neerzetten. Ook was ik erg tevreden over het gezamelijk plannen tijdens de meetings, wat later in Jira werd ingevoerd.
 
-* Bewijs:
+## Bewijs:
 
 ![Jira tijdlijn](./evidence/jira.png)
 
+---
 #### 3. Ethiek
 
 ##### 1. **Toegang en gebruikersbeheer: wie mag wat?**
@@ -740,6 +753,7 @@ Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens d
 
 ---
 ### 7. Doelgericht interacteren
+---
 
 #### 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
@@ -772,9 +786,10 @@ Ik leerde dat samenwerking niet altijd betekent “samen coderen”, maar vooral
 
 ---
 ### 8. Persoonlijk leiderschap
+---
 #### 1. SOP:
 
-**Skills Ontwikkel Plan (SOP), Origineel** 
+## **Skills Ontwikkel Plan (SOP), Origineel** 
 Anwar Muradin
 
 **Visie op studie en beroep**
@@ -841,15 +856,13 @@ _Doel:_ Samenwerking verbeteren terwijl ik de focus op doelen behoud.
 _Actieplan:_ Actieve deelname aan teamprojecten, waarbij ik constant reflecteer op de retrospectives en onderlinge meetings.
 
 
-**Skills Ontwikkel Plan (SOP), Geactualiseerd** 
-Anwar Muradin
-
-# Skills Ontwikkel Plan - Stage (SECIAN)  
+## **Skills Ontwikkel Plan (SOP), Geactualiseerd** 
+### Skills Ontwikkel Plan - Stage (SECIAN)  
 **Anwar Muradin**
 
 ---
 
-## Visie op studie en beroep
+#### Visie op studie en beroep
 
 Tijdens mijn stage bij SECIAN heb ik mijn eerdere interesses, zoals cloud computing en infrastructuur , verder kunnen verkennen in de praktijk. Vooral het werken aan een real-time complianceplatform met integraties voor Microsoft 365 en AWS heeft mijn enthousiasme voor security, logica en schaalbare architectuur verdiept.
 
@@ -859,31 +872,31 @@ In enterprise development ligt dat heel anders: het werk is **gestructureerder, 
 
 ---
 
-## Studievoortgang
+#### Studievoortgang
 
 De stage heeft bevestigd dat ik goed functioneer in een technische omgeving waar ik zelfstandig kan werken, maar ook invloed heb op bredere keuzes in het product. Ik kon mijn creativiteit kwijt in het ontwerpen van een parser-architectuur en in het analyseren van logica achter ISO27001-controls. Tegelijk leerde ik omgaan met beperkingen (zoals API-limieten, cloudkosten en teamafstemming). Repetitieve taken, zoals scrum stand-ups of documentatie, bleven minder motiverend, maar ik ben daar consistenter mee geworden.
 
 ---
 
-## Sterkte-zwakte analyse
+#### Sterkte-zwakte analyse
 
-### 1. Toekomstgericht organiseren (van 3 → 4/5)  
+##### 1. Toekomstgericht organiseren (van 3 → 4/5)  
 Het werken binnen een cloud-based project met complianceverplichtingen vergde planning en anticipatie. Ik heb geleerd hoe keuzes nu (zoals parserstructuur of datamodellen) effect hebben op toekomstige uitbreidbaarheid. Mijn gevoel voor schaalbaarheid en impact op lange termijn is gegroeid.
 
-### 2. Onderzoekend probleemoplossen (blijft 5/5)  
+##### 2. Onderzoekend probleemoplossen (blijft 5/5)  
 De stage was grotendeels onderzoekend: van API-analyse tot security control mapping. Ik bleef kritisch kijken naar aannames, en zocht constant naar de beste balans tussen abstractie, modulariteit en duidelijkheid.
 
-### 3. Persoonlijk leiderschap (van 3 → 4/5)  
+##### 3. Persoonlijk leiderschap (van 3 → 4/5)  
 Door mijn eigen werkgebied (de parser) te trekken, en tegelijk in te pluggen op het teamproces, ben ik sterker geworden in eigenaarschap. Time-blocking werkte goed tijdens piekperiodes. Prioriteiten bepalen bleef soms lastig bij parallelle taken, maar ik ben daar bewuster mee bezig.
 
-### 4. Doelgericht interacteren (blijft 5/5)  
+##### 4. Doelgericht interacteren (blijft 5/5)  
 Samenwerking binnen SECIAN was open, technisch en iteratief. Ik kon goed schakelen tussen overleg, feedback verwerken en daarna zelfstandig aanpassingen doen. Vooral in refinement-meetings voelde ik dat ik actief bijdroeg aan de richting van het product.
 
 ---
 
-## Ontwikkeldoelen en actieplan (gebaseerd op stage-ervaring)
+#### Ontwikkeldoelen en actieplan (gebaseerd op stage-ervaring)
 
-### Toekomstgericht organiseren  
+##### Toekomstgericht organiseren  
 **Doel:**  
 Beter overzicht houden op waar mijn werk naartoe beweegt, en bewust omgaan met de impact van technische keuzes op langere termijn.
 
@@ -892,7 +905,7 @@ Beter overzicht houden op waar mijn werk naartoe beweegt, en bewust omgaan met d
 - **Structuur aanbrengen in documentatie** zodat ik eerdere beslissingen en afwegingen snel kan terugvinden  
 - Een **persoonlijk systeem opzetten** (zoals een tweede brein) waarin ik mijn voortgang, ideeën en referenties veilig en toegankelijk bijhoud
 
-### Onderzoekend probleemoplossen  
+##### Onderzoekend probleemoplossen  
 **Doel:**  
 Mijn bestaande probleemaanpak verder verfijnen door bewuster te reflecteren op hoe ik denk, en manieren te zoeken om mijn aanpak flexibel toe te passen in verschillende situaties.
 
@@ -902,7 +915,7 @@ Mijn bestaande probleemaanpak verder verfijnen door bewuster te reflecteren op h
 - Mijn denkwijze vergelijken met die van anderen (bijv. tijdens code reviews of retro’s)  
 - Leren herkennen wanneer ik mijn standaardaanpak moet loslaten
 
-### Doelgericht interacteren  
+##### Doelgericht interacteren  
 **Doel:**  
 Mijn communicatie verfijnen door **aannames expliciet te maken** — zodat er geen verwarring of vertakkende interpretaties ontstaan over wat ik bedoel of voor wie het werkt.
 
@@ -912,7 +925,7 @@ Mijn communicatie verfijnen door **aannames expliciet te maken** — zodat er ge
 - Werken aan visuele of gestructureerde toelichtingen om redeneringen helder over te brengen  
 - Feedback vragen op hoe mijn uitleg geïnterpreteerd wordt, niet alleen op de inhoud
 
-### Persoonlijk leiderschap  
+##### Persoonlijk leiderschap  
 **Doel:**  
 Mijn zelfstandigheid als ontwikkelaar behouden, maar beter inspelen op **verschillen in perspectief** binnen het team — met name wanneer technische keuzes botsen met abstractere, security-gedreven invalshoeken.
 
@@ -923,7 +936,8 @@ Mijn zelfstandigheid als ontwikkelaar behouden, maar beter inspelen op **verschi
 - Zelfreflectie gebruiken om te zien of mijn gelijk ook het beste resultaat oplevert — of alleen technisch klopt
 
 
-
-**AI in dit document**: 
--Controle op grammatica
--Markdown formatting
+---
+#### **AI in dit document**: 
+##### -Controle op grammatica
+##### -Markdown formatting
+---
