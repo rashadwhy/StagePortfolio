@@ -673,12 +673,7 @@ De gekozen aanpak werd positief ontvangen en vormt nu de basis voor verdere ontw
 **Reflectie:**  
 Ik heb geleerd dat technische keuzes meerdere afhankelijkheden hebben, vooral binnen een CS context. Binnen een context als deze moet je rekening houden met externe eisen en verantwoordelijkheden, en actief keuzes maken die dat reflecteren, zelfs als dat betekent dat je iets inlevert op performance of kosten.
 
-</details>
-
 2. Procesmanagement: 
-
-<details>
-<summary>Klik om de STARR van Procesmanagement te bekijken</summary>
 
 Procesmanagement (STARR)
 
@@ -699,21 +694,11 @@ Door de structuur die ontstond via branching en Jira werd het project overzichte
 **Reflectie:**  
 Ik merkte dat zelfs minimale processtructuur, zoals branches en basale taakverdeling, direct resultaat oplevert. Door consistentie af te dwingen waar het ontbrak, werd het project technisch werkbaar en beter overdraagbaar. In de toekomst wil ik soortgelijke structuur al eerder neerzetten. Ook was ik erg tevreden over het gezamelijk plannen tijdens de meetings, wat later in Jira werd ingevoerd.
 
-</details>
-
 * Bewijs:
-
-<details>
-<summary>Klik om de Jira tijdlijn te bekijken</summary>
 
 ![Jira tijdlijn](./evidence/jira.png)
 
-</details>
-
 3. Ethiek
-
-<details>
-<summary>Klik om Etische dilemma's tijdens de stage te bekijken</summary>
 
 ### 1. **Toegang en gebruikersbeheer: wie mag wat?**
 
@@ -750,25 +735,13 @@ Soms merkte ik dat de opdrachtgever keuzes wilde maken op basis van beperkte tec
 Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens deze stage heb ik geleerd dat het belangrijk is om stil te staan bij de impact van wat je bouwt, ook als het niet verplicht wordt. Mijn aanpak was telkens: liever iets langzamer of complexer, zolang het verantwoord is. Het bewust kiezen voor bestaande en beschermde technologieën hoort daar ook bij. Ik wil die houding in toekomstige projecten vasthouden, zeker als de druk toeneemt of de belangen groter worden.
 
 ---
-
-</details>
-
----
 ### 7. Doelgericht interacteren
 
 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
-<details>
-<summary>Klik om de beoordeling van de stagepresentatie te bekijken</summary>
-
 [Beoordelingsformulier Stagepresentatie](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
-</details>
-
 2. Samenwerken: 
-
-<details>
-<summary>Klik om de STARR van Samenwerken te bekijken</summary>
 
 **Situatie:**  
 In het project werkte ik samen met de opdrachtgever, die verantwoordelijk was voor de visuele en functionele keuzes van de applicatie. Ik was verantwoordelijk voor de back-end en de technische structuur. Omdat we verschillende achtergronden hadden, was afstemming en samenwerking essentieel om voortgang te houden.
@@ -786,31 +759,16 @@ De samenwerking verliep steeds soepeler. De opdrachtgever kreeg grip op de ontwi
 **Reflectie:**  
 Ik leerde dat samenwerking niet altijd betekent “samen coderen”, maar vooral het actief afstemmen van verwachtingen en communicatie. Door zelf initiatief te nemen in structuur en uitleg, kon ik de samenwerking werkbaar maken, ook met iemand die technisch op een ander vlak opereerde.
 
-</details>
-
 
 3. Partners: tussentijdse en eindbeoordeling bedrijfsbegeleider 
 
-<details>
-<summary>Klik om de eindbeoordeling van de bedrijfsbegeleider te bekijken</summary>
-
 [beoordelingsformulier bedrijfsbegeleider eindbeoordeling.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20eindbeoordeling.pdf)
 
-</details>
-
-<details>
-<summary>Klik om de tussentijdse beoordeling van de bedrijfsbegeleider te bekijken</summary>
-
 [beoordelingsformulier bedrijfsbegeleider tussentijds.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20tussentijds.pdf)
-
-</details>
 
 ---
 ### 8. Persoonlijk leiderschap
 1. SOP:
-
-<details>
-<summary>Klik om het originele SOP te bekijken</summary>
 
 **Skills Ontwikkel Plan (SOP)** 
 Anwar Muradin
@@ -881,11 +839,6 @@ _Actieplan:_ Actieve deelname aan teamprojecten, waarbij ik constant reflecteer 
 **ChatGPT in dit document**: 
 -Controle op grammatica
 -Markdown formatting
-
-</details>
-
-<details>
-<summary>Klik om het geactualiseerde SOP te bekijken</summary>
 
 **Skills Ontwikkel Plan (SOP)** 
 Anwar Muradin
@@ -973,5 +926,3 @@ Mijn zelfstandigheid als ontwikkelaar behouden, maar beter inspelen op **verschi
 **ChatGPT in dit document**: 
 -Controle op grammatica
 -Markdown formatting
-
-</details>
