@@ -2,15 +2,15 @@
 
 ## Anwar Muradin 
 
-0683331295 
+#### 0683331295 
 
-HvA, HBO-ICT 
+### HvA, HBO-ICT 
 
 ## Stagedocent: Juriaan Vogelzang 
 
 ## Bedrijfsbegeleider: Amar Ritoe 
 
-Stageperiode: 2025, semester 
+### Stageperiode: 2025, semester 
 
 
 ---
@@ -186,7 +186,7 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 ---
 ### 4. Professioneel vakmanschap
 
-1. STARR, beroepstaak 1
+#### 1. STARR, beroepstaak 1
 
 * Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het ontwerp van een back-end implementatie op basis van de front-end van SECIAN's APEX.
 
@@ -208,7 +208,9 @@ Het resultaat was een helder ontwerp en een visueel uitgewerkte mockup, die als 
 In dit project leerde ik hoe belangrijk het is om de wensen van een opdrachtgever helder en praktisch te vertalen naar een concreet ontwerp. De opdrachtgever gaf aan wat hij wilde en hoe het eruit moest zien. Door zijn feedback letterlijk terug te koppelen en hem actief te laten kiezen tussen details, hield ik hem betrokken en voorkwam ik misverstanden. Daarna maakte ik een schets met pen om de datastroom visueel uit te leggen. Dat hielp om op één lijn te komen.  
 De daaropvolgende haalbaarheidsstudie bood een goede onderbouwing voor de technische keuzes, en werd goedgekeurd door de opdrachtgever. Op basis daarvan heb ik onze eisen geanalyseerd, een plan van aanpak opgesteld (met kanban-board en tijdlijn), en ben ik gestart met de uitvoering. In toekomstige projecten wil ik deze aanpak behouden: eerst visueel afstemmen, dan gestructureerd plannen, zodat iedereen die betrokken is bij het ontwikkelen grip houden op het proces.
 
-* Bewijs:
+---
+
+#### * Bewijs:
 
 ---
 
@@ -418,7 +420,7 @@ Get-SafeLinksRule
 
 # Other policies can be checked once the database is populated and I can filter on (automated = true).
 
-2. STARR, beroepstaak 2
+#### 2. STARR, beroepstaak 2
 
 *  Het bewijs betreft een beroepsproduct dat ik samen met anderen heb gemaakt, namelijk: Het realiseren van de ontworpen implementatie voor de back-end van SECIAN's APEX.
 
@@ -443,7 +445,7 @@ Ik ben trots op hoe ik in korte tijd heb geleerd om een stabiele back-end op te 
 
 ---
 ### 5. Onderzoekend vermogen
-1. STARR formulier bij het onderzoeksrapport
+#### 1. STARR formulier bij het onderzoeksrapport
 
 **Situatie:**  
 Aan het begin van mijn stage bij SECIAN kreeg ik de opdracht om een SaaS-dashboard te ontwerpen dat real-time compliance-informatie toont aan niet-technische gebruikers. Dit moest werken met cloudplatforms zoals Microsoft 365, Google Workspace en AWS. Omdat deze platformen ieder hun eigen datastructuur, terminologie en authenticatie hebben, was het probleem zowel technisch als conceptueel uitdagend.
@@ -483,14 +485,14 @@ Deze keuzes zijn verwerkt in het beroepsproduct en worden als fundament gebruikt
 Het uitvoeren van praktijkgericht onderzoek heeft me geleerd dat methodisch werken essentieel is bij complexe vraagstukken. Door kennisgebrek eerst in kaart te brengen en gericht bij te vullen, kon ik sneller tot bruikbare oplossingen komen. Ik heb bewust alternatieven overwogen en waar nodig bijgestuurd. Die aanpak wil ik blijven hanteren in toekomstige opdrachten met vergelijkbare onzekerheid.
 
 	
-2. Link en Beoordelingsformulier 	
+#### 2. Link en Beoordelingsformulier 	
 	
 [Onderzoeksverslag.pdf](./evidence/Onderzoeksverslag.pdf)
 
 
 [Beoordelingsformulier_onderzoeksrapport.pdf](./evidence/Beoordelingsformulier_onderzoeksrapport.pdf)
 
-3. Ander bewijs:
+#### 3. Ander bewijs:
 
 ---
 Meeting notes:
@@ -654,7 +656,7 @@ SSO setup simplifies user authentication across systems while meeting ISO27001 a
 * Deze feasibility study heb ik gemaakt voor Amar, voor de start van de ontwerpfase.
 ---
 ### 6. Toekomstgericht organiseren
-1. Organisatorische context:
+#### 1. Organisatorische context:
 
 Organisatorische Context (STARR)
 
@@ -673,7 +675,9 @@ De gekozen aanpak werd positief ontvangen en vormt nu de basis voor verdere ontw
 **Reflectie:**  
 Ik heb geleerd dat technische keuzes meerdere afhankelijkheden hebben, vooral binnen een CS context. Binnen een context als deze moet je rekening houden met externe eisen en verantwoordelijkheden, en actief keuzes maken die dat reflecteren, zelfs als dat betekent dat je iets inlevert op performance of kosten.
 
-2. Procesmanagement: 
+---
+
+#### 2. Procesmanagement: 
 
 Procesmanagement (STARR)
 
@@ -698,50 +702,50 @@ Ik merkte dat zelfs minimale processtructuur, zoals branches en basale taakverde
 
 ![Jira tijdlijn](./evidence/jira.png)
 
-3. Ethiek
+#### 3. Ethiek
 
-### 1. **Toegang en gebruikersbeheer: wie mag wat?**
+##### 1. **Toegang en gebruikersbeheer: wie mag wat?**
 
 Bij het opzetten van het permissiesysteem en de back-end was een van de vragen: hoe strikt moet de toegang geregeld worden? Technisch gezien was het eenvoudiger om brede toegang toe te staan, maar dat zou betekenen dat gebruikers meer konden dan strikt noodzakelijk. Uiteindelijk koos ik voor een opzet waarbij toegang gebonden is aan rol en context. Dit was niet alleen veiliger, maar ook ethisch verantwoordelijker: gebruikers krijgen alleen toegang tot wat ze nodig hebben, niets meer.
 
 ---
 
-### 2. **Data-opslag: lokale snelheid of centrale veiligheid?**
+##### 2. **Data-opslag: lokale snelheid of centrale veiligheid?**
 
 Een ander dilemma betrof het gebruik van local storage. Lokale opslag is sneller en eenvoudiger te implementeren, maar gevoelige gegevens zouden daarmee direct op de client staan, zonder controle of encryptie. Ik heb geleerd om in plaats daarvan te werken met een centrale, beveiligde API-opzet. Daarmee werd de gebruikersveiligheid zwaarder gewogen dan gebruiksgemak of ontwikkelsnelheid.
 
 ---
 
-### 3. **Bewezen infrastructuur versus maatwerk**
+##### 3. **Bewezen infrastructuur versus maatwerk**
 
 In het kiezen van back-end infrastructuur was er ruimte om zelf oplossingen te bouwen of goedkopere alternatieven te gebruiken. In de context van cybersecurity vond ik dat niet verantwoord. We kozen daarom voor **bewezen en bestaande technologieën zoals AWS**—met name Cognito en DynamoDB—die niet alleen schaalbaar zijn, maar ook onderhevig zijn aan Europese en internationale regelgeving. In een vakgebied waarin veiligheid en betrouwbaarheid centraal staan, zie ik het als een ethische keuze om gebruik te maken van platforms die bescherming en compliance garanderen.
 
 ---
 
-### 4. **Branching en versiebeheer: transparantie versus snelheid**
+##### 4. **Branching en versiebeheer: transparantie versus snelheid**
 
 Tijdens het opzetten van de GitHub-structuur kon ik ervoor kiezen om simpelweg alles op de main branch te doen, zonder duidelijk onderscheid in versies. Dat zou sneller werken, maar onduidelijker zijn voor anderen. Ik koos ervoor om met een duidelijke versiehiërarchie en branches te werken, juist zodat toekomstige ontwikkelaars (of de opdrachtgever zelf) altijd kunnen zien wat er wanneer gebeurd is. Transparantie won van snelheid.
 
 ---
 
-### 5. **Beperkte kennis opdrachtgever: grenzen aan uitvoering**
+##### 5. **Beperkte kennis opdrachtgever: grenzen aan uitvoering**
 
 Soms merkte ik dat de opdrachtgever keuzes wilde maken op basis van beperkte technische kennis—bijvoorbeeld over het omgaan met gebruikersgegevens, of het inrichten van infrastructuur. In plaats van simpelweg uit te voeren wat er gevraagd werd, koos ik ervoor om uitleg te geven, alternatieven te bieden, en alleen die oplossingen te bouwen waar ik ook zelf achter kon staan. Ik zie dat als een ethische verantwoordelijkheid: niet alleen doen wat gevraagd wordt, maar meedenken over wat juist is.
 
 ---
 
-### Reflectie
+##### Reflectie
 
 Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens deze stage heb ik geleerd dat het belangrijk is om stil te staan bij de impact van wat je bouwt, ook als het niet verplicht wordt. Mijn aanpak was telkens: liever iets langzamer of complexer, zolang het verantwoord is. Het bewust kiezen voor bestaande en beschermde technologieën hoort daar ook bij. Ik wil die houding in toekomstige projecten vasthouden, zeker als de druk toeneemt of de belangen groter worden.
 
 ---
 ### 7. Doelgericht interacteren
 
-1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
+#### 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
 [Beoordelingsformulier Stagepresentatie](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
-2. Samenwerken: 
+#### 2. Samenwerken: 
 
 **Situatie:**  
 In het project werkte ik samen met de opdrachtgever, die verantwoordelijk was voor de visuele en functionele keuzes van de applicatie. Ik was verantwoordelijk voor de back-end en de technische structuur. Omdat we verschillende achtergronden hadden, was afstemming en samenwerking essentieel om voortgang te houden.
@@ -760,7 +764,7 @@ De samenwerking verliep steeds soepeler. De opdrachtgever kreeg grip op de ontwi
 Ik leerde dat samenwerking niet altijd betekent “samen coderen”, maar vooral het actief afstemmen van verwachtingen en communicatie. Door zelf initiatief te nemen in structuur en uitleg, kon ik de samenwerking werkbaar maken, ook met iemand die technisch op een ander vlak opereerde.
 
 
-3. Partners: tussentijdse en eindbeoordeling bedrijfsbegeleider 
+#### 3. Partners: tussentijdse en eindbeoordeling bedrijfsbegeleider 
 
 [beoordelingsformulier bedrijfsbegeleider eindbeoordeling.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20eindbeoordeling.pdf)
 
@@ -768,9 +772,9 @@ Ik leerde dat samenwerking niet altijd betekent “samen coderen”, maar vooral
 
 ---
 ### 8. Persoonlijk leiderschap
-1. SOP:
+#### 1. SOP:
 
-**Skills Ontwikkel Plan (SOP)** 
+**Skills Ontwikkel Plan (SOP), Origineel** 
 Anwar Muradin
 
 **Visie op studie en beroep**
@@ -836,11 +840,8 @@ _Actieplan:_ Implementeren van tijdmanagementmethodes zoals time-blocking en pri
 _Doel:_ Samenwerking verbeteren terwijl ik de focus op doelen behoud.  
 _Actieplan:_ Actieve deelname aan teamprojecten, waarbij ik constant reflecteer op de retrospectives en onderlinge meetings.
 
-**ChatGPT in dit document**: 
--Controle op grammatica
--Markdown formatting
 
-**Skills Ontwikkel Plan (SOP)** 
+**Skills Ontwikkel Plan (SOP), Geactualiseerd** 
 Anwar Muradin
 
 # Skills Ontwikkel Plan - Stage (SECIAN)  
@@ -923,6 +924,6 @@ Mijn zelfstandigheid als ontwikkelaar behouden, maar beter inspelen op **verschi
 
 
 
-**ChatGPT in dit document**: 
+**AI in dit document**: 
 -Controle op grammatica
 -Markdown formatting
