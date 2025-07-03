@@ -186,7 +186,12 @@ De volledige stageperiode liep van februari t/m juni 2025. Gedurende deze tijd w
 ---
 ### 3. Beroepstakenlijst
 --- 
-[beroepstaken-stage.pdf](./evidence/beroepstaken-stage.pdf)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-1.png)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-2.png)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-3.png)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-4.png)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-5.png)
+![beroepstaken-stage](./evidence/assets/1Beroepstaken/beroepstaken-stage-6.png)
 
 ---
 ### 4. Professioneel vakmanschap
@@ -500,7 +505,9 @@ Het uitvoeren van praktijkgericht onderzoek heeft me geleerd dat methodisch werk
 [Onderzoeksverslag.pdf](./evidence/Onderzoeksverslag.pdf)
 
 
-[Beoordelingsformulier_onderzoeksrapport.pdf](./evidence/Beoordelingsformulier_onderzoeksrapport.pdf)
+
+![Beoordelingsformulier-onderzoeksrapport](./evidence/assets/2Beoordeling%20Onderzoeksrapport/Beoordelingsformulier_onderzoeksrapport-1.png)
+![Beoordelingsformulier-onderzoeksrapport](./evidence/assets/2Beoordeling%20Onderzoeksrapport/Beoordelingsformulier_onderzoeksrapport-2.png)
 
 ### 3. Ander bewijs:
 
@@ -757,8 +764,8 @@ Veel ethiek in IT zit niet in grote schandalen, maar in kleine keuzes. Tijdens d
 
 #### 1. Mondeling communiceren: beoordelingsformulier stagepresentatie  
 
-[Beoordelingsformulier Stagepresentatie.pdf](./evidence/beoordelingsformulier%20stagepresentatie.pdf)
 
+![Beoordelingsformulier-stagepresentatie](./evidence/assets/3Beoordeling%20Stagepresentatie/beoordelingsformulier%20stagepresentatie.pdf-1.png)
 #### 2. Samenwerken: 
 
 **Situatie:**  
@@ -780,9 +787,10 @@ Ik leerde dat samenwerking niet altijd betekent “samen coderen”, maar vooral
 
 #### 3. Partners: tussentijdse en eindbeoordeling bedrijfsbegeleider 
 
-[beoordelingsformulier bedrijfsbegeleider eindbeoordeling.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20eindbeoordeling.pdf)
+![Beoordelingsformulier-tussentijds](./evidence/assets/4Beoordeling%20bedrijfsbegeleider%20tussentijds/beoordelingsformulier%20bedrijfsbegeleider%20tussentijds-1.png)
+![Beoordelingsformulier-tussentijds](./evidence/assets/4Beoordeling%20bedrijfsbegeleider%20tussentijds/beoordelingsformulier%20bedrijfsbegeleider%20tussentijds-2.png)
 
-[beoordelingsformulier bedrijfsbegeleider tussentijds.pdf](./evidence/beoordelingsformulier%20bedrijfsbegeleider%20tussentijds.pdf)
+![Beoordelingsformulier-eind](./evidence/assets/5Beoordelingsformulier%20bedrijfsbegeleider%20eind/beoordelingsformulier%20bedrijfsbegeleider%20eindbeoordeling-1.png)
 
 ---
 ### 8. Persoonlijk leiderschap
